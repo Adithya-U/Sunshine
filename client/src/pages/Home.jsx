@@ -5,7 +5,7 @@ import im1 from '../assets/jv.png'
 import im2 from '../assets/ren.png'
 import im3 from '../assets/de.png'
 import About from './About';
-import Expertise from './Expertise';
+import Expertise from './expertise';
 export default function Home() {
   const slides = [
     {
